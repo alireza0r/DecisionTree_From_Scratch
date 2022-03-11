@@ -10,7 +10,7 @@
 <li>	 Labels: dataset_headernames = ['label', 'workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'sex', 'native-country'] <br />
 <li> After run, create two train_dataset.csv and validation_dataset.csv<br />
 </ul>
-<img src="Pictures/Create_dataset.png" alt="Create_dataset" width="500" height="333">
+<img src="Pictures/Create_dataset.png" alt="Create_dataset">
 <br />
 <br />
 <h3>Create_tree:</h3>
