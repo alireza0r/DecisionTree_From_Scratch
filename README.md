@@ -1,5 +1,5 @@
 <h1> Decision Tree with ID3 algorithm </h1>
-<mark><h2>Folders</h2></mark><br />
+<h2>Folders</h2><br />
 <h3>Create_dataset:</h3>
 <ul>
 <li> In this folder us can make a .csv file of .discrete files<br />
