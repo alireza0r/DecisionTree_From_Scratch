@@ -1,6 +1,6 @@
 <h1> Decision Tree with ID3 algorithm </h1>
-<mark>Folders:</ mark><br />
-<h3>Create_dataset:</h3><br />
+<mark><h2>Folders</h2></mark><br />
+<h3>Create_dataset:</h3>
 <ul>
 <li> In this folder us can make a .csv file of .discrete files<br />
 <li> There is a Adult dataset in this folder and you can use of this dataset<br />
@@ -12,7 +12,7 @@
 </ul>
 <br />
 <br />
-<h3>Create_tree:</h3><br />
+<h3>Create_tree:</h3>
 <ul>
 <li> In this folder you can make a tree with ID3 algorithm<br />
 <li> You should run ID3_withCheackLabel_csvDataset_v0.24.py<br />
@@ -21,7 +21,7 @@
 </ul>
 <br />
 <br />
-<h3>Test_Tree:</h3><br />
+<h3>Test_Tree:</h3>
 <ul>
 <li> you can use of this folder for test the Tree.<br />
 </ul>
@@ -29,5 +29,5 @@
 <br />
 <br />
 <br />
-<h4>Thank you in advance for improving this app</h4><br />
+Thank you in advance for improving this app<br />
 AR
