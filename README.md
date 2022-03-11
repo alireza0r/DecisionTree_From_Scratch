@@ -1,13 +1,15 @@
 <h1> Decision Tree with ID3 algorithm </h1>
 <mark>Folders:</ mark><br />
 Create_dataset:<br />
-- In this folder us can make a .csv file of .discrete files<br />
-- There is a Adult dataset in this folder and you can use of this dataset<br />
-- for create .csv files of .discrete files you should run create_dataset.py<br />
-- after run create_dataset.py, program get .discrete file name<br />
--	 Attention: The .discrete file must have the following labels:<br />
--	 Labels: dataset_headernames = ['label', 'workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'sex', 'native-country'] <br />
-- After run, create two train_dataset.csv and validation_dataset.csv<br />
+<ul>
+<li> In this folder us can make a .csv file of .discrete files<br />
+<li> There is a Adult dataset in this folder and you can use of this dataset<br />
+<li> for create .csv files of .discrete files you should run create_dataset.py<br />
+<li> after run create_dataset.py, program get .discrete file name<br />
+<li>	 Attention: The .discrete file must have the following labels:<br />
+<li>	 Labels: dataset_headernames = ['label', 'workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'sex', 'native-country'] <br />
+<li> After run, create two train_dataset.csv and validation_dataset.csv<br />
+</ul>
 <br />
 <br />
 Create_tree:<br />
