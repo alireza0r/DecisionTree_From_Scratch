@@ -2,7 +2,7 @@
 <h2>Folders</h2><br />
 <h3>Create_dataset:</h3>
 <ul>
-<li> In this folder us can make a .csv file of .discrete files<br />
+<li> In this folder you can make a .csv file of .discrete files<br />
 <li> There is a Adult dataset in this folder and you can use of this dataset<br />
 <li> for create .csv files of .discrete files you should run create_dataset.py<br />
 <li> after run create_dataset.py, program get .discrete file name<br />
