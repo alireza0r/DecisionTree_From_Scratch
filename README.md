@@ -20,12 +20,14 @@
 <li> After run, you have to give a train dataset (.csv), for example you can use Create_dataset/train_dataset.csv or train_dataset.csv.<br />
 <li> After train, The model make a tree_law.csv that show the tree law also make a train_full_information.txt that show a info dictionary of the dataset.<br />
 </ul>
+<img src="Pictures/Create_tree.png" alt="Create_tree">
 <br />
 <br />
 <h3>Test_Tree:</h3>
 <ul>
 <li> you can use of this folder for test the Tree.<br />
 </ul>
+<img src="Pictures/Test_Tree.png" alt="Test_Tree">
 <br />
 <br />
 <br />
