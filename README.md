@@ -1,4 +1,5 @@
 # DecisionTree_From_Scratch
+<h1> Decision Tree with ID3 algorithm </h1>
 <mark>Folders:</ mark><br />
 Create_dataset:<br />
 - In this folder us can make a .csv file of .discrete files<br />
